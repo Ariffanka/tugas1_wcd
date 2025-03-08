@@ -20,7 +20,6 @@ class CircleExample {
     }
   }
   
-  
   class Circle {
     radius: number;
   
