@@ -12,7 +12,7 @@ And the code have the expected output from the task table given and I added some
 # Step by step for running Typescript
 1. Make sure if you guys installed node js before. if didnt you can install from official Node js web.
 2. Make sure if you guys installed Typescript before. if didnt you can install using this command:
-   ```bash npm i -g Typescript ```
+   ``` npm i -g Typescript ```
 3. After that you guys can install Typescript dependencies using this:
    ``` npm i --save-dev @types/node ```
 4. And make sure step by step before was successfully, so you guys can config your Typescript file in tsconfig.json. using this for generate tsconfig.json:
